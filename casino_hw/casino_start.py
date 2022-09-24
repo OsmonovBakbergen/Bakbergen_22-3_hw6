@@ -18,4 +18,3 @@ while True:
             print(f'Вы ввели неправильный лот')
         win_amount = stavka(amount, lot)
         balance += win_amount
-
